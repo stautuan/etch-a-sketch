@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#container {
+  background-color: #fff0f6;
+  width: 800px;
+  height: 800px;
+
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.squares {
+  background-color: #fcc2d7;
+  width: 50px;
+  height: 50px;
+  border: 1px solid #444;
+}
